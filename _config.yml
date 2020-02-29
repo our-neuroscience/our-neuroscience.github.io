@@ -13,6 +13,12 @@ paginate_path: "/page:num/"
 
 include: ["_pages"]
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-159325651-1"
+    anonymize_ip: true
+
 defaults:
     - scope:
         path: ""
