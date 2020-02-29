@@ -1,19 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes" 
 
 locale: "ja"
-title: "title"
+title: "OUR NEUROSCIENCE"
 title_separator: "|"
 
 
-url: "" # write your site url
-repository: "" # write your jekyll repository
-
-author:
-    avatar: "/assets/images/profile.png"
-    name: "John Doe"
-    bio: "This is bio"
-    location: "Japan"
-    twitter: "twitter"
+url: "https://our-neuroscience.github.io" # write your site url
+repository: "https://github.com/our-neuroscience/our-neuroscience.github.io" # write your jekyll repository
     
 paginate: 7
 paginate_path: "/page:num/"
@@ -26,7 +19,7 @@ defaults:
         type: posts
       values:
         layout: single
-        author_profile: true
+        author_profile: false
         read_time: false
         comments: false
         share: true
@@ -39,8 +32,8 @@ defaults:
         author_profile: false
         read_time: false
         comments: false
-        share: false
-        related: false
+        share: true
+        related: true
 
 search: true
 

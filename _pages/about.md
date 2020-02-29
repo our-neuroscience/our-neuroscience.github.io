@@ -1,9 +1,9 @@
 ---
 layout: single
-title: About me
+title: About
 permalink: /about
 author_profile: false
 toc: false
 ---
 
-This is about page.
+Our Neuroscienceは神経科学に関する情報を提供するWebサイトです。

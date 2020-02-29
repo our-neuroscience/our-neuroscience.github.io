@@ -1,5 +1,9 @@
 main:
-    - title: "home"
+    - title: "HOME"
       url: /
-    - title: "about"
+    - title: "ABOUT"
       url: /about
+    - title: "EVENTS"
+      url: /events
+    - title: "神経科学Slack"
+      url: /slack
