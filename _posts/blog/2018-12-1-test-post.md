@@ -1,6 +1,6 @@
 ---
-title: "Test post"
+title: "Hello, world!"
 category: events
 ---
 
-This is test post.
+Our Neuroscienceの最初の投稿です。
